@@ -1,0 +1,2 @@
+working on stash commands for the chnages
+:wq
